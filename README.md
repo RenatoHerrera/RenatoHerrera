@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenatoHerrera
-- 👀 I’m interested in learn more database
+- 👀 I’m interested in learn more database, CRUD
 - 🌱 I’m currently learning MySQL, Visual Studio
 - 📫 How to reach me https://www.linkedin.com/in/renatocherrera/
 
